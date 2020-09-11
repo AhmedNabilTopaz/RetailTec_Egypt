@@ -1,0 +1,4 @@
+[submodule "AhmedNabilTopaz/RetailTec_Egypt"]
+	path = AhmedNabilTopaz/RetailTec_Egypt
+	url = git@github.com:AhmedNabilTopaz/RetailTec_Egypt.git
+	branch = master
